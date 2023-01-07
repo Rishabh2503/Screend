@@ -1,0 +1,26 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  height: 100vh;
+
+  background: #136a8a; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #267871,
+    #136a8a
+  ); 
+  background: linear-gradient(
+    to right,
+    #267871,
+    #136a8a
+  );
+
+  color: #effe92;
+}
+
+
+@media only screen and (max-width: 768px) {
+  
+}
